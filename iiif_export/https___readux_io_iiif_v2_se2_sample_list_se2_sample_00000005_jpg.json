@@ -1,0 +1,1231 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/se2-sample/list/se2-sample_00000005.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7116e23f-e980-42b1-a7e5-9cdbfd4b01f6",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7116e23f-e980-42b1-a7e5-9cdbfd4b01f6' class='anno-7116e23f-e980-42b1-a7e5-9cdbfd4b01f6' data-letter-spacing='0.058472644376899696'>No. 1</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=667,657,329,149",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7116e23f-e980-42b1-a7e5-9cdbfd4b01f6: { height: 149px; width: 329px; font-size: 93.125px; letter-spacing: 19.2375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7c0876c6-6741-42e2-88ae-e5f4e31257d5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='7c0876c6-6741-42e2-88ae-e5f4e31257d5' class='anno-7c0876c6-6741-42e2-88ae-e5f4e31257d5' data-letter-spacing='0.007184403612191146'>Pilgrim Stranger.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1500,665,938,155",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-7c0876c6-6741-42e2-88ae-e5f4e31257d5: { height: 155px; width: 938px; font-size: 96.875px; letter-spacing: 6.738970588235294px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2fc73fa9-9d87-462d-b984-b09e6e4f3c85",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2fc73fa9-9d87-462d-b984-b09e6e4f3c85' class='anno-2fc73fa9-9d87-462d-b984-b09e6e4f3c85' data-letter-spacing='-0.0027233740798271087'>Words by C. A. TINDLEY, D. D. Scotch Melody arr. by Wm. D. SMITH.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=789,801,2278,132",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2fc73fa9-9d87-462d-b984-b09e6e4f3c85: { height: 132px; width: 2278px; font-size: 82.5px; letter-spacing: -6.203846153846154px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8b91a170-0e44-434f-bb22-951f4c4a6a28",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8b91a170-0e44-434f-bb22-951f4c4a6a28' class='anno-8b91a170-0e44-434f-bb22-951f4c4a6a28' data-letter-spacing='-0.0038164530738788163'>1. Go ye hum-ble pil - grim stran-ger, Thro' this world of woe,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=849,1161,2222,140",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8b91a170-0e44-434f-bb22-951f4c4a6a28: { height: 140px; width: 2222px; font-size: 87.5px; letter-spacing: -8.48015873015873px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "401fe996-2562-4430-81fe-9524ec63b922",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='401fe996-2562-4430-81fe-9524ec63b922' class='anno-401fe996-2562-4430-81fe-9524ec63b922' data-letter-spacing='0.0007683781164386175'>2. If your way is dark and lone- ly, He will be your guide,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=865,1252,2221,115",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-401fe996-2562-4430-81fe-9524ec63b922: { height: 115px; width: 2221px; font-size: 71.875px; letter-spacing: 1.7065677966101696px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4cd07df8-5324-4259-a140-e1435c3cd268",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4cd07df8-5324-4259-a140-e1435c3cd268' class='anno-4cd07df8-5324-4259-a140-e1435c3cd268' data-letter-spacing='-0.0018889734697905213'>3. When dis-cour-aged and for - sak - en, Run to Him in pray'r,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=867,1311,2252,128",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4cd07df8-5324-4259-a140-e1435c3cd268: { height: 128px; width: 2252px; font-size: 80.0px; letter-spacing: -4.253968253968254px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6a89aa55-19c0-4e76-ae67-e2cc4dae4b49",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6a89aa55-19c0-4e76-ae67-e2cc4dae4b49' class='anno-6a89aa55-19c0-4e76-ae67-e2cc4dae4b49' data-letter-spacing='0.002358800611883933'>4. If you chance to find a stran-ger, Put him in the way,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=873,1394,2202,107",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6a89aa55-19c0-4e76-ae67-e2cc4dae4b49: { height: 107px; width: 2202px; font-size: 66.875px; letter-spacing: 5.194078947368421px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e199cdd9-06ad-4036-969e-7e34214d7d85",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e199cdd9-06ad-4036-969e-7e34214d7d85' class='anno-e199cdd9-06ad-4036-969e-7e34214d7d85' data-letter-spacing='-0.0030143118546595215'>You may meet with many a dan-ger, Ev -'ry- where you go.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=853,1993,2186,146",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e199cdd9-06ad-4036-969e-7e34214d7d85: { height: 146px; width: 2186px; font-size: 91.25px; letter-spacing: -6.589285714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e3561fdd-37be-4019-8ce5-72acbfcfc460",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e3561fdd-37be-4019-8ce5-72acbfcfc460' class='anno-e3561fdd-37be-4019-8ce5-72acbfcfc460' data-letter-spacing='0.000779072316702684'>He is, though so meek and low -ly, More than all be- side.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=865,2085,2202,116",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e3561fdd-37be-4019-8ce5-72acbfcfc460: { height: 116px; width: 2202px; font-size: 72.5px; letter-spacing: 1.7155172413793103px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dda44f44-b1d5-424b-a4e3-61c5ddb96c64",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='dda44f44-b1d5-424b-a4e3-61c5ddb96c64' class='anno-dda44f44-b1d5-424b-a4e3-61c5ddb96c64' data-letter-spacing='0.0005222371967654987'>Nev - er has been one o'er-tak - en, Who re- sort- ed there.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=847,2159,2226,115",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-dda44f44-b1d5-424b-a4e3-61c5ddb96c64: { height: 115px; width: 2226px; font-size: 71.875px; letter-spacing: 1.1625px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d091c98a-65b4-442b-ad47-c62456e95a9d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='d091c98a-65b4-442b-ad47-c62456e95a9d' class='anno-d091c98a-65b4-442b-ad47-c62456e95a9d' data-letter-spacing='-0.0017318349753694582'>Tell him how to flee the dan- ger, While it is called day.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=835,2209,2240,136",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-d091c98a-65b4-442b-ad47-c62456e95a9d: { height: 136px; width: 2240px; font-size: 85.0px; letter-spacing: -3.8793103448275863px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "941ea0b5-4365-4d65-b6c6-4b959f384fe5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='941ea0b5-4365-4d65-b6c6-4b959f384fe5' class='anno-941ea0b5-4365-4d65-b6c6-4b959f384fe5' data-letter-spacing='-0.0030662643367561403'>Don't for- get that God a-bove you, Hath a gra - cious heart,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=823,2833,2184,136",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-941ea0b5-4365-4d65-b6c6-4b959f384fe5: { height: 136px; width: 2184px; font-size: 85.0px; letter-spacing: -6.69672131147541px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "32b135af-8193-4ec9-99c9-9a6fa7b2ceab",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='32b135af-8193-4ec9-99c9-9a6fa7b2ceab' class='anno-32b135af-8193-4ec9-99c9-9a6fa7b2ceab' data-letter-spacing='-0.0007338216594458361'>When the world in arms as- sail you, And your cour- age fail,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=827,2924,2153,118",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-32b135af-8193-4ec9-99c9-9a6fa7b2ceab: { height: 118px; width: 2153px; font-size: 73.75px; letter-spacing: -1.5799180327868851px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "cfa37b90-c104-40d9-b2b0-967dc0290a51",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='cfa37b90-c104-40d9-b2b0-967dc0290a51' class='anno-cfa37b90-c104-40d9-b2b0-967dc0290a51' data-letter-spacing='0.001345430345368796'>When the storms of life are beat-ing, Hard up-on your head,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=815,2994,2203,110",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-cfa37b90-c104-40d9-b2b0-967dc0290a51: { height: 110px; width: 2203px; font-size: 68.75px; letter-spacing: 2.9639830508474576px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f3d14e20-6929-4ec1-9594-54f847630e4b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f3d14e20-6929-4ec1-9594-54f847630e4b' class='anno-f3d14e20-6929-4ec1-9594-54f847630e4b' data-letter-spacing='-0.00010926573426573427'>Tell him there's a pre - cious fountain, Flow -ing free for all,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=829,3063,2145,108",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f3d14e20-6929-4ec1-9594-54f847630e4b: { height: 108px; width: 2145px; font-size: 67.5px; letter-spacing: -0.234375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "bc69268e-06d2-480e-99c0-1f50fb537dff",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='bc69268e-06d2-480e-99c0-1f50fb537dff' class='anno-bc69268e-06d2-480e-99c0-1f50fb537dff' data-letter-spacing='-0.0022401052307293185'>He will nev - er cease to love you, Or to take your part,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=849,3710,2164,137",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-bc69268e-06d2-480e-99c0-1f50fb537dff: { height: 137px; width: 2164px; font-size: 85.625px; letter-spacing: -4.847587719298246px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1fe0774f-b6c0-4150-872e-4f8023790a79",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1fe0774f-b6c0-4150-872e-4f8023790a79' class='anno-1fe0774f-b6c0-4150-872e-4f8023790a79' data-letter-spacing='0.0009819734345351044'>Let Him fight your bat - tle for you, And you will pre - vail.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=866,3812,2125,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1fe0774f-b6c0-4150-872e-4f8023790a79: { height: 103px; width: 2125px; font-size: 64.375px; letter-spacing: 2.086693548387097px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "16a56a6e-6f34-441c-8dde-93275f35fada",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='16a56a6e-6f34-441c-8dde-93275f35fada' class='anno-16a56a6e-6f34-441c-8dde-93275f35fada' data-letter-spacing='0.0012013485664135657'>God will hide you, He is plead -ing, \"Be ye not a - fraid.\"</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=850,3878,2163,109",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-16a56a6e-6f34-441c-8dde-93275f35fada: { height: 109px; width: 2163px; font-size: 68.125px; letter-spacing: 2.5985169491525424px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9e9ed476-0125-426f-8fdd-8d755473b730",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9e9ed476-0125-426f-8fdd-8d755473b730' class='anno-9e9ed476-0125-426f-8fdd-8d755473b730' data-letter-spacing='-0.0010704856967198293'>Je - sus Christ, on Cal-vary's mountain, Paid for A - dam's fall.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=861,3942,2127,112",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9e9ed476-0125-426f-8fdd-8d755473b730: { height: 112px; width: 2127px; font-size: 70.0px; letter-spacing: -2.276923076923077px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4f80a2bb-1039-4d23-931f-dd7f10ada369",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='4f80a2bb-1039-4d23-931f-dd7f10ada369' class='anno-4f80a2bb-1039-4d23-931f-dd7f10ada369' data-letter-spacing='-0.007851601601601602'>5 Tell him that above a brother,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=619,4300,999,125",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-4f80a2bb-1039-4d23-931f-dd7f10ada369: { height: 125px; width: 999px; font-size: 78.125px; letter-spacing: -7.84375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3ecc6b66-43f6-41fe-abdc-6d2f49a4f461",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3ecc6b66-43f6-41fe-abdc-6d2f49a4f461' class='anno-3ecc6b66-43f6-41fe-abdc-6d2f49a4f461' data-letter-spacing='0.0017686170212765958'>There's a Saviour's love,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=755,4389,752,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3ecc6b66-43f6-41fe-abdc-6d2f49a4f461: { height: 92px; width: 752px; font-size: 57.5px; letter-spacing: 1.33px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3dc83eb8-6738-4ebe-8772-cb3bfeb73f5c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='3dc83eb8-6738-4ebe-8772-cb3bfeb73f5c' class='anno-3dc83eb8-6738-4ebe-8772-cb3bfeb73f5c' data-letter-spacing='-0.004936120789779327'>If on earth he has no other,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=690,4449,861,112",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-3dc83eb8-6738-4ebe-8772-cb3bfeb73f5c: { height: 112px; width: 861px; font-size: 70.0px; letter-spacing: -4.25px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f727903c-8c7d-41b1-b749-550c7b477221",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='f727903c-8c7d-41b1-b749-550c7b477221' class='anno-f727903c-8c7d-41b1-b749-550c7b477221' data-letter-spacing='0.0019029684719043987'>There's a friend above.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=767,4524,684,91",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-f727903c-8c7d-41b1-b749-550c7b477221: { height: 91px; width: 684px; font-size: 56.875px; letter-spacing: 1.3016304347826086px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9cb9fbb5-c3e8-4cc8-a3b6-447864c527bb",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9cb9fbb5-c3e8-4cc8-a3b6-447864c527bb' class='anno-9cb9fbb5-c3e8-4cc8-a3b6-447864c527bb' data-letter-spacing='-0.006946444939112216'>If he needs your help and kindness,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=680,4568,1091,124",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9cb9fbb5-c3e8-4cc8-a3b6-447864c527bb: { height: 124px; width: 1091px; font-size: 77.5px; letter-spacing: -7.578571428571428px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c5d9b953-98a5-4ec6-aed2-9c37059c9c5a",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c5d9b953-98a5-4ec6-aed2-9c37059c9c5a' class='anno-c5d9b953-98a5-4ec6-aed2-9c37059c9c5a' data-letter-spacing='0.002619617224880383'>Don't withhold your hand,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=751,4651,836,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c5d9b953-98a5-4ec6-aed2-9c37059c9c5a: { height: 100px; width: 836px; font-size: 62.5px; letter-spacing: 2.19px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9a585603-86ad-4039-9a67-c03cf9f2f976",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9a585603-86ad-4039-9a67-c03cf9f2f976' class='anno-9a585603-86ad-4039-9a67-c03cf9f2f976' data-letter-spacing='-0.004511258417508417'>Always of this be reminded,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=671,4714,880,117",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9a585603-86ad-4039-9a67-c03cf9f2f976: { height: 117px; width: 880px; font-size: 73.125px; letter-spacing: -3.9699074074074074px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5ebf6f87-7d30-447f-bfe5-4bbc118dd754",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5ebf6f87-7d30-447f-bfe5-4bbc118dd754' class='anno-5ebf6f87-7d30-447f-bfe5-4bbc118dd754' data-letter-spacing='-0.0019404237465911473'>He's your fellow man.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=748,4791,681,108",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5ebf6f87-7d30-447f-bfe5-4bbc118dd754: { height: 108px; width: 681px; font-size: 67.5px; letter-spacing: -1.3214285714285714px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5cdc9eca-15fd-4de0-9dcf-326cf783f02d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='5cdc9eca-15fd-4de0-9dcf-326cf783f02d' class='anno-5cdc9eca-15fd-4de0-9dcf-326cf783f02d' data-letter-spacing='-0.008901515151515152'>6 Then when Jesus comes in Glory,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1958,4295,1100,138",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-5cdc9eca-15fd-4de0-9dcf-326cf783f02d: { height: 138px; width: 1100px; font-size: 86.25px; letter-spacing: -9.791666666666666px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c37d324b-9881-40e6-9da2-c2a13b7cc0bc",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c37d324b-9881-40e6-9da2-c2a13b7cc0bc' class='anno-c37d324b-9881-40e6-9da2-c2a13b7cc0bc' data-letter-spacing='0.008395103324348608'>On the judgement throne,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2117,4403,742,79",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c37d324b-9881-40e6-9da2-c2a13b7cc0bc: { height: 79px; width: 742px; font-size: 49.375px; letter-spacing: 6.229166666666667px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "945fdf31-0b4c-4a99-a2d5-9a4012919ad7",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='945fdf31-0b4c-4a99-a2d5-9a4012919ad7' class='anno-945fdf31-0b4c-4a99-a2d5-9a4012919ad7' data-letter-spacing='-0.0017002989536621823'>In His book will be the story,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2029,4460,892,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-945fdf31-0b4c-4a99-a2d5-9a4012919ad7: { height: 100px; width: 892px; font-size: 62.5px; letter-spacing: -1.5166666666666666px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "95936902-a5d3-403c-9d36-290ae668cc37",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='95936902-a5d3-403c-9d36-290ae668cc37' class='anno-95936902-a5d3-403c-9d36-290ae668cc37' data-letter-spacing='0.008858267716535433'>All shall be made known.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2103,4540,762,80",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-95936902-a5d3-403c-9d36-290ae668cc37: { height: 80px; width: 762px; font-size: 50.0px; letter-spacing: 6.75px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "2b77933a-540a-40b3-aeac-06bc41357cf1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='2b77933a-540a-40b3-aeac-06bc41357cf1' class='anno-2b77933a-540a-40b3-aeac-06bc41357cf1' data-letter-spacing='-0.007883985295880448'>There above all other favors,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2039,4580,863,117",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-2b77933a-540a-40b3-aeac-06bc41357cf1: { height: 117px; width: 863px; font-size: 73.125px; letter-spacing: -6.803879310344827px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "20fadf75-c1c6-4772-b427-6bab0a386818",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='20fadf75-c1c6-4772-b427-6bab0a386818' class='anno-20fadf75-c1c6-4772-b427-6bab0a386818' data-letter-spacing='0.003926038500506586'>On the golden strand,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2105,4665,658,92",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-20fadf75-c1c6-4772-b427-6bab0a386818: { height: 92px; width: 658px; font-size: 57.5px; letter-spacing: 2.5833333333333335px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "432a1fdd-2b1c-4fa6-9739-1a6a01d8e0b5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='432a1fdd-2b1c-4fa6-9739-1a6a01d8e0b5' class='anno-432a1fdd-2b1c-4fa6-9739-1a6a01d8e0b5' data-letter-spacing='-0.006005909558067832'>Will be placed upon your labors,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2049,4716,973,116",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-432a1fdd-2b1c-4fa6-9739-1a6a01d8e0b5: { height: 116px; width: 973px; font-size: 72.5px; letter-spacing: -5.84375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "24865a71-6f9b-4f00-bebd-26ba58ac9c37",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='24865a71-6f9b-4f00-bebd-26ba58ac9c37' class='anno-24865a71-6f9b-4f00-bebd-26ba58ac9c37' data-letter-spacing='0.004882218844984802'>For your fellow man.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2103,4803,658,95",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-24865a71-6f9b-4f00-bebd-26ba58ac9c37: { height: 95px; width: 658px; font-size: 59.375px; letter-spacing: 3.2125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "19789860-61d8-4d98-b928-d3621d37c36e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='19789860-61d8-4d98-b928-d3621d37c36e' class='anno-19789860-61d8-4d98-b928-d3621d37c36e' data-letter-spacing='0.0006874508963645455'>Copyright, 1909, by C. A. Tindley, D.D.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000005.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1355,4877,1077,86",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-19789860-61d8-4d98-b928-d3621d37c36e: { height: 86px; width: 1077px; font-size: 53.75px; letter-spacing: 0.7403846153846154px;}"
+            }
+        }
+    ]
+}

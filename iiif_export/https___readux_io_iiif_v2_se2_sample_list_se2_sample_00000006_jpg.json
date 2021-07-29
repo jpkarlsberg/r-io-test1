@@ -1,0 +1,823 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/iiif/v2/se2-sample/list/se2-sample_00000006.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a14c9881-ca3c-4aab-b21f-c41b4b9c587f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='a14c9881-ca3c-4aab-b21f-c41b4b9c587f' class='anno-a14c9881-ca3c-4aab-b21f-c41b4b9c587f' data-letter-spacing='0.009128926968584252'>Stand By Me.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1379,752,817,194",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-a14c9881-ca3c-4aab-b21f-c41b4b9c587f: { height: 194px; width: 817px; font-size: 121.25px; letter-spacing: 7.458333333333333px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "533aabb9-ff4b-41a2-9d4e-ed17f873373e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='533aabb9-ff4b-41a2-9d4e-ed17f873373e' class='anno-533aabb9-ff4b-41a2-9d4e-ed17f873373e' data-letter-spacing='0.000946969696969697'>No. 2.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=523,775,330,175",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-533aabb9-ff4b-41a2-9d4e-ed17f873373e: { height: 175px; width: 330px; font-size: 109.375px; letter-spacing: 0.3125px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e1f74e53-8186-4cce-8c80-acff9711f06d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e1f74e53-8186-4cce-8c80-acff9711f06d' class='anno-e1f74e53-8186-4cce-8c80-acff9711f06d' data-letter-spacing='-6.0395082850172666e-05'>Words and Music by C. A. TINDLEY. Arr. by F. A. CLARK.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=577,927,2338,139",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e1f74e53-8186-4cce-8c80-acff9711f06d: { height: 139px; width: 2338px; font-size: 86.875px; letter-spacing: -0.1412037037037037px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ef415df2-e2d6-4c8f-86f2-b3f91920e57e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='ef415df2-e2d6-4c8f-86f2-b3f91920e57e' class='anno-ef415df2-e2d6-4c8f-86f2-b3f91920e57e' data-letter-spacing='-0.0022691476397415557'>1. When the storms of life are rag-ing, Stand by me. (stand by me.) When the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=703,1347,2289,113",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-ef415df2-e2d6-4c8f-86f2-b3f91920e57e: { height: 113px; width: 2289px; font-size: 70.625px; letter-spacing: -5.194078947368421px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1f04f750-349f-408f-a3be-3a441b533f5e",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='1f04f750-349f-408f-a3be-3a441b533f5e' class='anno-1f04f750-349f-408f-a3be-3a441b533f5e' data-letter-spacing='0.0030378914793615336'>2. In the midst of trib - u-la-tions, Stand by me. In the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=700,1429,2262,105",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-1f04f750-349f-408f-a3be-3a441b533f5e: { height: 105px; width: 2262px; font-size: 65.625px; letter-spacing: 6.871710526315789px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8e027a63-10e9-489b-9539-96408ace01b1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8e027a63-10e9-489b-9539-96408ace01b1' class='anno-8e027a63-10e9-489b-9539-96408ace01b1' data-letter-spacing='0.003091059415987072'>3. In the midst of faults and failures, Stand by me. In the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=705,1498,2255,100",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8e027a63-10e9-489b-9539-96408ace01b1: { height: 100px; width: 2255px; font-size: 62.5px; letter-spacing: 6.970338983050848px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fe1fb47a-b48d-4bb5-af96-efb23443e196",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='fe1fb47a-b48d-4bb5-af96-efb23443e196' class='anno-fe1fb47a-b48d-4bb5-af96-efb23443e196' data-letter-spacing='0.002904333375141101'>4. In the midst of per - se-cu-tion, Stand by me. In the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=693,1564,2278,109",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-fe1fb47a-b48d-4bb5-af96-efb23443e196: { height: 109px; width: 2278px; font-size: 68.125px; letter-spacing: 6.616071428571429px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b7548ecf-5a88-476e-8131-ccdb9bdcaf5c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='b7548ecf-5a88-476e-8131-ccdb9bdcaf5c' class='anno-b7548ecf-5a88-476e-8131-ccdb9bdcaf5c' data-letter-spacing='-9.736398130611559e-05'>5. When I'm growing old and fee-ble, Stand by me. (by me.) When I'm</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=692,1622,2309,111",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-b7548ecf-5a88-476e-8131-ccdb9bdcaf5c: { height: 111px; width: 2309px; font-size: 69.375px; letter-spacing: -0.2248134328358209px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "307a1063-1f8c-468b-85e9-7bcef326346c",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='307a1063-1f8c-468b-85e9-7bcef326346c' class='anno-307a1063-1f8c-468b-85e9-7bcef326346c' data-letter-spacing='-0.0017024174327545114'>storms of life are rag - ing, Stand by me. (stand by me.) When the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=755,2289,2225,120",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-307a1063-1f8c-468b-85e9-7bcef326346c: { height: 120px; width: 2225px; font-size: 75.0px; letter-spacing: -3.787878787878788px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9a2182b5-0447-4abc-8681-44c7bc75f3f9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='9a2182b5-0447-4abc-8681-44c7bc75f3f9' class='anno-9a2182b5-0447-4abc-8681-44c7bc75f3f9' data-letter-spacing='0.005016725975610797'>midst of trib - u - la - tions, Stand by me. When the</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=761,2378,2211,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-9a2182b5-0447-4abc-8681-44c7bc75f3f9: { height: 98px; width: 2211px; font-size: 61.25px; letter-spacing: 11.091981132075471px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c39aa4d5-f013-4770-a799-6452009d17f3",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='c39aa4d5-f013-4770-a799-6452009d17f3' class='anno-c39aa4d5-f013-4770-a799-6452009d17f3' data-letter-spacing='0.004745913792494793'>midst of faults and fail - ures, Stand by me. When I</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=769,2445,2179,101",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-c39aa4d5-f013-4770-a799-6452009d17f3: { height: 101px; width: 2179px; font-size: 63.125px; letter-spacing: 10.341346153846153px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6de5fc67-ada1-4367-bc13-e7e1548049b1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6de5fc67-ada1-4367-bc13-e7e1548049b1' class='anno-6de5fc67-ada1-4367-bc13-e7e1548049b1' data-letter-spacing='0.0043531173937464895'>midst of per - se-cu - tion, Stand by me. When my</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=770,2512,2180,112",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6de5fc67-ada1-4367-bc13-e7e1548049b1: { height: 112px; width: 2180px; font-size: 70.0px; letter-spacing: 9.489795918367347px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "71fee10b-0721-476b-8676-8df36e3e3812",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='71fee10b-0721-476b-8676-8df36e3e3812' class='anno-71fee10b-0721-476b-8676-8df36e3e3812' data-letter-spacing='-0.005284194355939918'>grow -ing old and fee - ble, Stand by me. (stand by me.) When my</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=765,2561,2197,147",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-71fee10b-0721-476b-8676-8df36e3e3812: { height: 147px; width: 2197px; font-size: 91.875px; letter-spacing: -11.609375px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8688c322-bc6d-442c-a26c-83b9b41cb941",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='8688c322-bc6d-442c-a26c-83b9b41cb941' class='anno-8688c322-bc6d-442c-a26c-83b9b41cb941' data-letter-spacing='0.0038836817591950657'>world is toss - ing me Like a ship up - on the sea.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=783,3309,2206,111",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-8688c322-bc6d-442c-a26c-83b9b41cb941: { height: 111px; width: 2206px; font-size: 69.375px; letter-spacing: 8.567401960784315px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e2d281b0-07a0-43a2-bb2a-5079c71ad4e5",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e2d281b0-07a0-43a2-bb2a-5079c71ad4e5' class='anno-e2d281b0-07a0-43a2-bb2a-5079c71ad4e5' data-letter-spacing='0.0015662901905041484'>hosts of hell as - sail, And my strength be - gins to fail,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=784,3377,2194,108",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e2d281b0-07a0-43a2-bb2a-5079c71ad4e5: { height: 108px; width: 2194px; font-size: 67.5px; letter-spacing: 3.4364406779661016px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0c8c9947-2196-4a06-a584-928cf3f680af",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0c8c9947-2196-4a06-a584-928cf3f680af' class='anno-0c8c9947-2196-4a06-a584-928cf3f680af' data-letter-spacing='0.005031365693130399'>do the best I can, And my friends mis - un - der-stand,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=818,3459,2210,93",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0c8c9947-2196-4a06-a584-928cf3f680af: { height: 93px; width: 2210px; font-size: 58.125px; letter-spacing: 11.119318181818182px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6b2af6de-7194-44df-a0ed-4d9a51c69c0d",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6b2af6de-7194-44df-a0ed-4d9a51c69c0d' class='anno-6b2af6de-7194-44df-a0ed-4d9a51c69c0d' data-letter-spacing='0.002471512382241778'>foes in bat-tle ar - ray, Un - der - take to stop my way,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=815,3515,2177,105",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6b2af6de-7194-44df-a0ed-4d9a51c69c0d: { height: 105px; width: 2177px; font-size: 65.625px; letter-spacing: 5.380482456140351px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "82c24833-ba17-4655-9670-8cc8416ca313",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='82c24833-ba17-4655-9670-8cc8416ca313' class='anno-82c24833-ba17-4655-9670-8cc8416ca313' data-letter-spacing='0.0007110548911376879'>life becomes a bur- den, And I'm near - ing chil-ly Jor-dan,</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=811,3584,2174,111",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-82c24833-ba17-4655-9670-8cc8416ca313: { height: 111px; width: 2174px; font-size: 69.375px; letter-spacing: 1.5458333333333334px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e4f3146c-f509-49af-b738-0de3390cfbe8",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='e4f3146c-f509-49af-b738-0de3390cfbe8' class='anno-e4f3146c-f509-49af-b738-0de3390cfbe8' data-letter-spacing='-0.0003851953842119066'>Thou who rulest wind and wa - ter, Stand by me. (stand by me.)</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=779,4291,2214,117",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-e4f3146c-f509-49af-b738-0de3390cfbe8: { height: 117px; width: 2214px; font-size: 73.125px; letter-spacing: -0.8528225806451613px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aa208ea5-b4c5-4bec-ae83-e5910d5b37f1",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='aa208ea5-b4c5-4bec-ae83-e5910d5b37f1' class='anno-aa208ea5-b4c5-4bec-ae83-e5910d5b37f1' data-letter-spacing='0.004605392696232294'>Thou who nev - er lost a bat- tle, Stand by me.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=773,4375,1837,98",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-aa208ea5-b4c5-4bec-ae83-e5910d5b37f1: { height: 98px; width: 1837px; font-size: 61.25px; letter-spacing: 8.460106382978724px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6b18febd-6e4f-4714-81be-cec169b71e6b",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='6b18febd-6e4f-4714-81be-cec169b71e6b' class='anno-6b18febd-6e4f-4714-81be-cec169b71e6b' data-letter-spacing='0.005080617025518342'>Thou who knowest all a-bout me, Stand by me.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=785,4440,1824,103",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-6b18febd-6e4f-4714-81be-cec169b71e6b: { height: 103px; width: 1824px; font-size: 64.375px; letter-spacing: 9.267045454545455px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "237fd37a-d702-42b1-a5e4-386226c6a7aa",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='237fd37a-d702-42b1-a5e4-386226c6a7aa' class='anno-237fd37a-d702-42b1-a5e4-386226c6a7aa' data-letter-spacing='0.00552531284876404'>Thou who saved Paul and Si - las, Stand by me.</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=769,4508,1831,95",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-237fd37a-d702-42b1-a5e4-386226c6a7aa: { height: 95px; width: 1831px; font-size: 59.375px; letter-spacing: 10.116847826086957px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0c60e46c-e7bf-4328-aed6-5a6dfdd7855f",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='0c60e46c-e7bf-4328-aed6-5a6dfdd7855f' class='anno-0c60e46c-e7bf-4328-aed6-5a6dfdd7855f' data-letter-spacing='0.0005402678169282473'>O  thou \"Lil - y of the Val-ley,\" Stand by me. (by me)</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=854,4552,2138,123",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-0c60e46c-e7bf-4328-aed6-5a6dfdd7855f: { height: 123px; width: 2138px; font-size: 76.875px; letter-spacing: 1.1550925925925926px;}"
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "93534264-7775-42e6-b828-c5af03fb44ec",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "format": "text/html",
+                "chars": "<span id='93534264-7775-42e6-b828-c5af03fb44ec' class='anno-93534264-7775-42e6-b828-c5af03fb44ec' data-letter-spacing='-0.010718848032081757'>Copyright. 1906, by C. A. Tindley</span>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/se2-sample/canvas/se2-sample_00000006.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/se2-sample/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1316,4919,937,123",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                }
+            },
+            "stylesheet": {
+                "type": "CssStylesheet",
+                "value": ".anno-93534264-7775-42e6-b828-c5af03fb44ec: { height: 123px; width: 937px; font-size: 76.875px; letter-spacing: -10.043560606060606px;}"
+            }
+        }
+    ]
+}
